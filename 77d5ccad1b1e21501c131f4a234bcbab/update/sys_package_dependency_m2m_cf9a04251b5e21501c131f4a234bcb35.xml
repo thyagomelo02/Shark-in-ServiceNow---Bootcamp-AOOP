@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Service Creator" source="com.glide.service_creator">b63dcc4b24b021108c8bc6863d3fad9d</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 01:03:53</sys_created_on>
+        <sys_id>cf9a04251b5e21501c131f4a234bcb35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 01:03:53</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

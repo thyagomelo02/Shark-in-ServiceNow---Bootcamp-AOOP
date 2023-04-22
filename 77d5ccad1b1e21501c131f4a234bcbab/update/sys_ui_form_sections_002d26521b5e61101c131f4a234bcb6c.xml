@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="002d26521b5e61101c131f4a234bcb6c" sys_domain="global" table="x_156327_shark_profile" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-21 20:49:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>442da6d21b5e61101c131f4a234bcbce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_156327_shark_profile" name="x_156327_shark_profile" sys_domain="global" view="Default view">002d26521b5e61101c131f4a234bcb6c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_156327_shark_profile" sys_domain="global" view="Default view">c82da6d21b5e61101c131f4a234bcbc8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-21 20:49:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_156327_shark_profile</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-21 20:49:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>002d26521b5e61101c131f4a234bcb6c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_156327_shark_profile</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope>
+            <sys_update_name>sys_ui_form_sections_002d26521b5e61101c131f4a234bcb6c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-21 20:49:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

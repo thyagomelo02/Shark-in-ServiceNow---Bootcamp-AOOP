@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="507b40651b5e21501c131f4a234bcbbd" extends="x_156327_shark_bootcamper" label="Profile" max_length="40" name="x_156327_shark_profile" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="254" name="address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Bootcamper" max_length="254" name="bootcamper" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="200" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Estate" max_length="254" name="estate" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Neighborhood" max_length="254" name="neighborhood" type="string"/>
+    </element>
+</database>

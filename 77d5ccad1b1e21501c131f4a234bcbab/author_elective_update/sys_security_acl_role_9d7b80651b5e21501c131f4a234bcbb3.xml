@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 01:07:36</sys_created_on>
+        <sys_id>9d7b80651b5e21501c131f4a234bcbb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_156327_shark_profile.x_156327_shark.instructors</sys_name>
+        <sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope>
+        <sys_security_acl display_value="x_156327_shark_profile">197b80651b5e21501c131f4a234bcbb1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9d7b80651b5e21501c131f4a234bcbb3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 01:07:36</sys_updated_on>
+        <sys_user_role display_value="x_156327_shark.instructors" name="x_156327_shark.instructors">9d16c8ed1b1e21501c131f4a234bcb7c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</application>
+        <file_path/>
+        <instance_id>7501279bdb376010e03ad7c8f496192f</instance_id>
+        <instance_name>dev113190</instance_name>
+        <name>sys_security_acl_role_9d7b80651b5e21501c131f4a234bcbb3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-19 01:07:36</sys_created_on><sys_id>9d7b80651b5e21501c131f4a234bcbb3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_156327_shark_profile.x_156327_shark.instructors</sys_name><sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package><sys_policy/><sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope><sys_security_acl display_value="x_156327_shark_profile">197b80651b5e21501c131f4a234bcbb1</sys_security_acl><sys_update_name>sys_security_acl_role_9d7b80651b5e21501c131f4a234bcbb3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-19 01:07:36</sys_updated_on><sys_user_role display_value="x_156327_shark.instructors" name="x_156327_shark.instructors">9d16c8ed1b1e21501c131f4a234bcb7c</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1223280197</payload_hash>
+        <record_name>x_156327_shark_profile.x_156327_shark.instructors</record_name>
+        <reverted_from/>
+        <source>04e5ccad1b1e21501c131f4a234bcbad</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 01:07:36</sys_created_on>
+        <sys_id>d17b80651b5e21501c131f4a234bcbb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187970d7c6f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 01:07:36</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>1d7b80652c5e2150c44a7fad1d134eb5</update_guid>
+        <update_guid_history>1d7b80652c5e2150c44a7fad1d134eb5:1223280197</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_156327_shark_profile.x_156327_shark.instructors">2bdc88a51b5e21501c131f4a234bcbea</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 01:13:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0dc36e570503463cb8bb9caafa4b4110</sys_id>
+        <sys_metadata>9d7b80651b5e21501c131f4a234bcbb3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_156327_shark_profile.x_156327_shark.instructors</sys_name>
+        <sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope>
+        <sys_scope_delete display_value="">19102b4a84d6424e83bbf434480ef149</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_9d7b80651b5e21501c131f4a234bcbb3</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_9d7b80651b5e21501c131f4a234bcbb3">d17b80651b5e21501c131f4a234bcbb6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 01:13:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
