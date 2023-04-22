@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>criar tarefas para os intrutores</description>
+        <internal_name>create_a_task_to_instructors</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Create a task to instructors</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>system</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 02:07:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8639d0e11b9e21501c131f4a234bcbe2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create a task to instructors</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope>
+        <sys_update_name>sys_hub_flow_8639d0e11b9e21501c131f4a234bcbe2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 02:07:43</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=8639d0e11b9e21501c131f4a234bcbe2"/>
+    <sys_variable_value action="delete_multiple" query="document_key=8639d0e11b9e21501c131f4a234bcbe2"/>
+    <sys_hub_trigger_instance action="delete_multiple" query="flow=8639d0e11b9e21501c131f4a234bcbe2"/>
+    <sys_hub_flow_stage action="delete_multiple" query="flow=8639d0e11b9e21501c131f4a234bcbe2"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=8639d0e11b9e21501c131f4a234bcbe2^sys_idNOT IN423918e11b9e21501c131f4a234bcbcb"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>8639d0e11b9e21501c131f4a234bcbe2</id>
+        <name>Create a task to instructors</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 02:07:43</sys_created_on>
+        <sys_id>423918e11b9e21501c131f4a234bcbcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 02:07:43</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=423918e11b9e21501c131f4a234bcbcb"/>
+    <sys_hub_flow_input action="delete_multiple" query="model=8639d0e11b9e21501c131f4a234bcbe2"/>
+    <sys_hub_flow_output action="delete_multiple" query="model=8639d0e11b9e21501c131f4a234bcbe2"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=8639d0e11b9e21501c131f4a234bcbe2"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=8639d0e11b9e21501c131f4a234bcbe2"/>
+    <sys_hub_sub_flow_instance action="delete_multiple" query="flow=8639d0e11b9e21501c131f4a234bcbe2"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=8639d0e11b9e21501c131f4a234bcbe2"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=8639d0e11b9e21501c131f4a234bcbe2"/>
+    <sys_hub_flow_variable action="delete_multiple" query="model=8639d0e11b9e21501c131f4a234bcbe2"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_8639d0e11b9e21501c131f4a234bcbe2"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_8639d0e11b9e21501c131f4a234bcbe2"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_8639d0e11b9e21501c131f4a234bcbe2"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_8639d0e11b9e21501c131f4a234bcbe2"/>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=8639d0e11b9e21501c131f4a234bcbe2"/>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=8639d0e11b9e21501c131f4a234bcbe2"/>
+</record_update>
