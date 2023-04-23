@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Cadastrar um novo Bootcamper">8fbab37e1bdee1101c131f4a234bcb4a</catalog_item>
+        <catalog_variable>IO:ebebcc0f1b1225101c131f4a234bcb2e</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-23 17:31:28</sys_created_on>
+        <sys_id>5fe2d4071b5225101c131f4a234bcbe5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>gender</sys_name>
+        <sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_5fe2d4071b5225101c131f4a234bcbe5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-23 17:31:28</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Regras de visualização dos campos se selecionado Bootcamp">3b81d0c31b5225101c131f4a234bcb10</ui_policy>
+        <variable>gender</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

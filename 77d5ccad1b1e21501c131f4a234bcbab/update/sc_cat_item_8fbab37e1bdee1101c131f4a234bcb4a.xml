@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="Services">109f0438c6112276003ae8ac13e7009d</category>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p>Serviço usado para fazer cadastros de novos <strong>Bootcampers</strong>.</p>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon>57c0cc831b1225101c131f4a234bcbcf</icon>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Cadastrar um novo Bootcamper</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture>52a00c831b1225101c131f4a234bcba7</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=8fbab37e1bdee1101c131f4a234bcb4a&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <short_description>Cadastre um novo bootcamper</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-23 15:48:26</sys_created_on>
+        <sys_id>8fbab37e1bdee1101c131f4a234bcb4a</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Cadastrar um novo Bootcamper</sys_name>
+        <sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope>
+        <sys_update_name>sc_cat_item_8fbab37e1bdee1101c131f4a234bcb4a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-23 16:11:55</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=8fbab37e1bdee1101c131f4a234bcb4a"/>
+    <fx_price action="delete_multiple" query="id=8fbab37e1bdee1101c131f4a234bcb4a"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="BRL">BRL</currency>
+        <field>price</field>
+        <id>8fbab37e1bdee1101c131f4a234bcb4a</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-23 15:48:26</sys_created_on>
+        <sys_id>576b3f7e1bdee1101c131f4a234bcb9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-23 15:48:26</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>8fbab37e1bdee1101c131f4a234bcb4a</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-23 15:48:26</sys_created_on>
+        <sys_id>1f6b3f7e1bdee1101c131f4a234bcb9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-23 15:48:26</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>icon</file_name>
+        <hash>b6ea950f083d96f2c2203ee8b68b071ac3e17431f53dbb4fcea95b63e2c4d4f4</hash>
+        <image_height>15</image_height>
+        <image_width>15</image_width>
+        <size_bytes>329</size_bytes>
+        <size_compressed>352</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-23 16:11:55</sys_created_on>
+        <sys_id>57c0cc831b1225101c131f4a234bcbcf</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-23 16:11:55</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>8fbab37e1bdee1101c131f4a234bcb4a</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="57c0cc831b1225101c131f4a234bcbcf">57c0cc831b1225101c131f4a234bcbcf</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-23 16:11:55</sys_created_on>
+        <sys_id>97c0cc831b1225101c131f4a234bcbcf</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AUkBtv6JUE5HDQoaCgAAAA1JSERSAAAADwAAAA8IBgAAADvWlUoAAAABc1JHQgCuzhzpAAABA0lEQVQ4T43TzyqGQRQG8N/nb0KyVqJcgVi5AiWFUnbfxj2wsrC1sJP7cA2UsmBjqVASJVZS/nRqXqbpfV/fqamZOT3nnOd5Zjr+Ygz92bncvuE7v+ykwzsGymSBjvwwPqr7AE/gGYMtXSN1j3WcN4Hna4rEqAG4wwauEJMqOy82gM8S+BKTmMJMCb5NvHIG0XkWL1jFCY6x0wvnLvYwh0/sYxkLJfgRQ4V9oe4o+nCNQxzVcQ47Kvsi/4Q1bGMLSzhtUjsqjqTkZir0gAPsJrUbrcqFitcWHKuorOoJXL6ZWvB4siH4tkWMv4KLnHPsbzCNrxZ00Ij1+zlyZf/7Va9l4R/7LzkbFKhLggAAAABJRU5ErkJggq2/tA5JAQAA</data>
+        <length>456</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="57c0cc831b1225101c131f4a234bcbcf">57c0cc831b1225101c131f4a234bcbcf</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-23 16:11:55</sys_created_on>
+        <sys_id>1bc0cc831b1225101c131f4a234bcbcf</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>picture</file_name>
+        <hash>79a498d49990db70170ae06a9ad5cf96db50fa36ff97fa17cc98ac9d47341609</hash>
+        <image_height>86</image_height>
+        <image_width>86</image_width>
+        <size_bytes>1916</size_bytes>
+        <size_compressed>1939</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-23 16:11:18</sys_created_on>
+        <sys_id>52a00c831b1225101c131f4a234bcba7</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-23 16:11:19</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>8fbab37e1bdee1101c131f4a234bcb4a</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="52a00c831b1225101c131f4a234bcba7">52a00c831b1225101c131f4a234bcba7</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-23 16:11:18</sys_created_on>
+        <sys_id>92a00c831b1225101c131f4a234bcba7</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2572</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="52a00c831b1225101c131f4a234bcba7">52a00c831b1225101c131f4a234bcba7</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-23 16:11:18</sys_created_on>
+        <sys_id>16a00c831b1225101c131f4a234bcba7</sys_id>
+    </sys_attachment_doc>
+</record_update>

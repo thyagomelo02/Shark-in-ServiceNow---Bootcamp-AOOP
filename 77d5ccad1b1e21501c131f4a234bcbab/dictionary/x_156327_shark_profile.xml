@@ -4,6 +4,7 @@
         <element attributes="edge_encryption_enabled=true" label="Bootcamper" max_length="254" name="bootcamper" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="City" max_length="200" name="city" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Estate" max_length="254" name="estate" type="string"/>
+        <element label="Getcep" max_length="8000" name="getcep" type="script"/>
         <element attributes="edge_encryption_enabled=true" label="Neighborhood" max_length="254" name="neighborhood" type="string"/>
     </element>
 </database>

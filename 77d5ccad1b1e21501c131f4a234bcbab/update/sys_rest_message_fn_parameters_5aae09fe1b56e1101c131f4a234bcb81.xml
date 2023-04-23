@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>cep</name>
+        <rest_message_function display_value="Default GET">ce5ec5fe1b56e1101c131f4a234bcb2a</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-23 03:13:36</sys_created_on>
+        <sys_id>5aae09fe1b56e1101c131f4a234bcb81</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>cep</sys_name>
+        <sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_5aae09fe1b56e1101c131f4a234bcb81</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-23 03:14:16</sys_updated_on>
+        <type>string</type>
+        <value>08475180</value>
+    </sys_rest_message_fn_parameters>
+</record_update>

@@ -30,12 +30,12 @@
         <script><![CDATA[(function executeRule(current, previous /*, gdt*/) {
   var user = gs.getUser();
   
-  if (user.hasRoleExactly('Coordinator')) {
-    if (current.state != previous.state && current.state != 'Waiting for Approval') {
+  if (user.hasRoleExactly('Coordenator')) {
+    if (current.States != previous.States && current.States != 'Waiting for Approval') {
       current.setAbortAction(true);
-      current.setReturn('Você só pode alterar registros quando o status é waiting for approval');
+      current.setReturn('Você só pode alterar registros quando o status for igual a waiting for approval');
     }
-  }
+  }else{current.setReturn('AAAAAAAAAAAAAAAAAAAA');}
 })(current, previous /*, gdt*/);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -43,7 +43,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6d99a0fa1b92e1101c131f4a234bcb23</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Coordinator update record</sys_name>
         <sys_overrides/>
         <sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package>
@@ -51,7 +51,7 @@
         <sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope>
         <sys_update_name>sys_script_6d99a0fa1b92e1101c131f4a234bcb23</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-04-23 00:38:09</sys_updated_on>
+        <sys_updated_on>2023-04-23 01:35:28</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>

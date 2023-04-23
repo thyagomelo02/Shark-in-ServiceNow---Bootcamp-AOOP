@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e068497e1b16e1101c131f4a234bcb2b" extends="sys_import_set_row" label="Cadastrar Bootcamper" max_length="40" name="x_156327_shark_cadastrar_bootcamper" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_course" label="Course" max_length="40" name="u_course" type="string"/>
+    </element>
+</database>
