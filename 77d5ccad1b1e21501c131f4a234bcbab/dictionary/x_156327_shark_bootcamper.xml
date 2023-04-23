@@ -18,7 +18,7 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="254" name="name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Occupation" max_length="200" name="occupation" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="States" max_length="40" name="states" type="choice">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="New" label="States" max_length="40" name="states" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Approved" value="approved"/>
                 <element inactive_on_update="false" label="New" value="new"/>
@@ -27,6 +27,6 @@
                 <element inactive_on_update="false" label="Waiting for approval" value="waiting_for_approval"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="Zip Code" max_length="40" name="zip_code" type="string"/>
+        <element label="ZIP CODE" max_length="40" name="zip_code" type="string"/>
     </element>
 </database>

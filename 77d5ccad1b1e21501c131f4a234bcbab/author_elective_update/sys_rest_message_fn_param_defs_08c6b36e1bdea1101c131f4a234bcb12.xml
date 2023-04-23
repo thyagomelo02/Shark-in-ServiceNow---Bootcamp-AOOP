@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="DELETE">
+        <name>formato</name>
+        <order>100</order>
+        <rest_message_function display_value="Default GET">b344bbea1bdea1101c131f4a234bcbaa</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-22 20:51:56</sys_created_on>
+        <sys_id>08c6b36e1bdea1101c131f4a234bcb12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>formato</sys_name>
+        <sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_08c6b36e1bdea1101c131f4a234bcb12</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-22 20:51:56</sys_updated_on>
+        <value>/json</value>
+    </sys_rest_message_fn_param_defs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</application>
+        <file_path/>
+        <instance_id>7501279bdb376010e03ad7c8f496192f</instance_id>
+        <instance_name>dev113190</instance_name>
+        <name>sys_rest_message_fn_param_defs_08c6b36e1bdea1101c131f4a234bcb12</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs"><sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE"><name>formato</name><order>100</order><rest_message_function display_value="Default GET">b344bbea1bdea1101c131f4a234bcbaa</rest_message_function><sys_class_name>sys_rest_message_fn_param_defs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-22 20:51:56</sys_created_on><sys_id>08c6b36e1bdea1101c131f4a234bcb12</sys_id><sys_mod_count>0</sys_mod_count><sys_name>formato</sys_name><sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package><sys_policy/><sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope><sys_update_name>sys_rest_message_fn_param_defs_08c6b36e1bdea1101c131f4a234bcb12</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-22 20:51:56</sys_updated_on><value>/json</value></sys_rest_message_fn_param_defs></record_update>]]></payload>
+        <payload_hash>-1992407834</payload_hash>
+        <record_name>formato</record_name>
+        <reverted_from/>
+        <source>8646a31a1b12a1101c131f4a234bcb01</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-22 20:51:56</sys_created_on>
+        <sys_id>6347ff2e1bdea1101c131f4a234bcbcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187aabcdd5f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-22 20:51:56</sys_updated_on>
+        <type>HTTP Query Parameters</type>
+        <update_guid>ab47ff2e1adea110bf8f48f9eea894cb</update_guid>
+        <update_guid_history>ab47ff2e1adea110bf8f48f9eea894cb:-1992407834</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-22 20:54:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn_param_defs">sys_rest_message_fn_param_defs</sys_db_object>
+        <sys_id>0a294ab23601465c82f0cf954fabaf10</sys_id>
+        <sys_metadata>08c6b36e1bdea1101c131f4a234bcb12</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>formato</sys_name>
+        <sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package>
+        <sys_parent display_value="">b344bbea1bdea1101c131f4a234bcbaa</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope>
+        <sys_scope_delete display_value="">19102b4a84d6424e83bbf434480ef149</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_param_defs_08c6b36e1bdea1101c131f4a234bcb12</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_param_defs_08c6b36e1bdea1101c131f4a234bcb12">6347ff2e1bdea1101c131f4a234bcbcc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-22 20:54:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

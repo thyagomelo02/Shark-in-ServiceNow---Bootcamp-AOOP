@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="DELETE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description/>
+        <name>CEP</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://cdn.apicep.com/file/apicep/</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-22 20:58:25</sys_created_on>
+        <sys_id>37b837221b12e1101c131f4a234bcb7c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>CEP</sys_name>
+        <sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope>
+        <sys_update_name>sys_rest_message_37b837221b12e1101c131f4a234bcb7c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-22 21:17:43</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</application>
+        <file_path/>
+        <instance_id>7501279bdb376010e03ad7c8f496192f</instance_id>
+        <instance_name>dev113190</instance_name>
+        <name>sys_rest_message_37b837221b12e1101c131f4a234bcb7c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message"><sys_rest_message action="INSERT_OR_UPDATE"><access>package_private</access><authentication_type>no_authentication</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><description/><name>CEP</name><oauth2_profile/><protocol_name/><rest_endpoint>https://cdn.apicep.com/file/apicep/</rest_endpoint><sys_class_name>sys_rest_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-22 20:58:25</sys_created_on><sys_id>37b837221b12e1101c131f4a234bcb7c</sys_id><sys_mod_count>3</sys_mod_count><sys_name>CEP</sys_name><sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package><sys_policy/><sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope><sys_update_name>sys_rest_message_37b837221b12e1101c131f4a234bcb7c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-22 21:17:43</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mutual_auth>false</use_mutual_auth></sys_rest_message></record_update>]]></payload>
+        <payload_hash>-1141393932</payload_hash>
+        <record_name>CEP</record_name>
+        <reverted_from/>
+        <source>8646a31a1b12a1101c131f4a234bcb01</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-22 21:17:43</sys_created_on>
+        <sys_id>8d3df7261b12e1101c131f4a234bcb9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187aad4754c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-22 21:17:43</sys_updated_on>
+        <type>REST Message</type>
+        <update_guid>813d7b228712e110c6a86faebca924a0</update_guid>
+        <update_guid_history>813d7b228712e110c6a86faebca924a0:-1141393932,970c7f229012e11094cbed11ec552819:-272277550,b8fb7b227012e11033409a40dd34f784:-2002224840,dac83722c912e110109d419ead333782:-882784044</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-22 21:32:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message">sys_rest_message</sys_db_object>
+        <sys_id>2099fbbc02784e98af2cbd37cf111c40</sys_id>
+        <sys_metadata>37b837221b12e1101c131f4a234bcb7c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CEP</sys_name>
+        <sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope>
+        <sys_scope_delete display_value="">19102b4a84d6424e83bbf434480ef149</sys_scope_delete>
+        <sys_update_name>sys_rest_message_37b837221b12e1101c131f4a234bcb7c</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_37b837221b12e1101c131f4a234bcb7c">8d3df7261b12e1101c131f4a234bcb9e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-22 21:32:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

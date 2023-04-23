@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Cadastro Bootcamper">cfd5ba9a1b5e61101c131f4a234bcb14</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-21 21:29:16</sys_created_on>
+        <sys_id>a8463a1e1b5e61101c131f4a234bcbf6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Cadastro Bootcamper</sys_name>
+        <sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_a8463a1e1b5e61101c131f4a234bcbf6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-21 21:29:16</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</application>
+        <file_path/>
+        <instance_id>7501279bdb376010e03ad7c8f496192f</instance_id>
+        <instance_name>dev113190</instance_name>
+        <name>sc_cat_item_catalog_a8463a1e1b5e61101c131f4a234bcbf6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Cadastro Bootcamper">cfd5ba9a1b5e61101c131f4a234bcb14</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-21 21:29:16</sys_created_on><sys_id>a8463a1e1b5e61101c131f4a234bcbf6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Cadastro Bootcamper</sys_name><sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package><sys_policy/><sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope><sys_update_name>sc_cat_item_catalog_a8463a1e1b5e61101c131f4a234bcbf6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-21 21:29:16</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1426120093</payload_hash>
+        <record_name>Service Catalog.Cadastro Bootcamper</record_name>
+        <reverted_from/>
+        <source>04e5ccad1b1e21501c131f4a234bcbad</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-21 21:29:16</sys_created_on>
+        <sys_id>2c463a1e1b5e61101c131f4a234bcbf9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187a5b8ad830000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-21 21:29:16</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>a0463a1e305e61106d243d9b97cb00f9</update_guid>
+        <update_guid_history>a0463a1e305e61106d243d9b97cb00f9:-1426120093</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Cadastro Bootcamper">e079d7e21b9ea1101c131f4a234bcbba</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-22 18:41:29</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>21da4a2d283341a4b3451c32ca6ebc44</sys_id>
+        <sys_metadata>a8463a1e1b5e61101c131f4a234bcbf6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Cadastro Bootcamper</sys_name>
+        <sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope>
+        <sys_scope_delete display_value="">19102b4a84d6424e83bbf434480ef149</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_a8463a1e1b5e61101c131f4a234bcbf6</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_a8463a1e1b5e61101c131f4a234bcbf6">2c463a1e1b5e61101c131f4a234bcbf9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-22 18:41:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

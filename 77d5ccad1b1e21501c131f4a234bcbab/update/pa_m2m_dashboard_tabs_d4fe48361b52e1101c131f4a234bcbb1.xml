@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="Shark in ServiceNow">38dec4361b52e1101c131f4a234bcbbe</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-22 22:35:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d4fe48361b52e1101c131f4a234bcbb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>38dec4361b52e1101c131f4a234bcbbe</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_d4fe48361b52e1101c131f4a234bcbb1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-22 22:35:13</sys_updated_on>
+        <tab display_value="Shark in ServiceNow - New Tab">98fe48361b52e1101c131f4a234bcbae</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

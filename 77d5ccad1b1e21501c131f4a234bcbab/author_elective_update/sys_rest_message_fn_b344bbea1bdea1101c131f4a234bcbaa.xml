@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="DELETE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>ZIP Code [ Default GET ]</qualified_name>
+        <rest_endpoint>https://viacep.com.br/ws/</rest_endpoint>
+        <rest_message display_value="ZIP Code">09e23faa1bdea1101c131f4a234bcb00</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-22 20:38:52</sys_created_on>
+        <sys_id>b344bbea1bdea1101c131f4a234bcbaa</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope>
+        <sys_update_name>sys_rest_message_fn_b344bbea1bdea1101c131f4a234bcbaa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-22 20:51:56</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</application>
+        <file_path/>
+        <instance_id>7501279bdb376010e03ad7c8f496192f</instance_id>
+        <instance_name>dev113190</instance_name>
+        <name>sys_rest_message_fn_b344bbea1bdea1101c131f4a234bcbaa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>inherit_from_parent</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>Default GET</function_name><http_method>get</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>ZIP Code [ Default GET ]</qualified_name><rest_endpoint>https://viacep.com.br/ws/</rest_endpoint><rest_message display_value="ZIP Code">09e23faa1bdea1101c131f4a234bcb00</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-22 20:38:52</sys_created_on><sys_id>b344bbea1bdea1101c131f4a234bcbaa</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Default GET</sys_name><sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package><sys_policy/><sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope><sys_update_name>sys_rest_message_fn_b344bbea1bdea1101c131f4a234bcbaa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-22 20:51:56</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+        <payload_hash>203005911</payload_hash>
+        <record_name>Default GET</record_name>
+        <reverted_from/>
+        <source>8646a31a1b12a1101c131f4a234bcb01</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-22 20:51:56</sys_created_on>
+        <sys_id>2f47ff2e1bdea1101c131f4a234bcbce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187aabcdd850000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-22 20:51:56</sys_updated_on>
+        <type>HTTP Method</type>
+        <update_guid>2747ff2e09dea110b8c568a9b460ccce</update_guid>
+        <update_guid_history>2747ff2e09dea110b8c568a9b460ccce:203005911,dfb6f7ae63dea1108d553a27ef3e09c4:1270670382,3f25f72ed8dea1103a4cc3d83f3054b1:203005911,f344bbea3edea110009a92ed575f5aac:824360511</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-22 20:58:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn">sys_rest_message_fn</sys_db_object>
+        <sys_id>a87d310a073149389d5a56f310eb3724</sys_id>
+        <sys_metadata>b344bbea1bdea1101c131f4a234bcbaa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="Shark Talent" source="x_156327_shark">77d5ccad1b1e21501c131f4a234bcbab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shark Talent">77d5ccad1b1e21501c131f4a234bcbab</sys_scope>
+        <sys_scope_delete display_value="">19102b4a84d6424e83bbf434480ef149</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_b344bbea1bdea1101c131f4a234bcbaa</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_b344bbea1bdea1101c131f4a234bcbaa">2f47ff2e1bdea1101c131f4a234bcbce</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-22 20:58:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
